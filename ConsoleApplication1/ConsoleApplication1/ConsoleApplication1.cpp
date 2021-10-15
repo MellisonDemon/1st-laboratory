@@ -14,8 +14,6 @@ int main()
 	cout << "long double -- " << sizeof (long double) << endl;
 	cout << "char -- " << sizeof (char) << endl;
 	cout << "bool -- " << sizeof (bool) << endl;
-	
-	system("pause");
 
 	//--------------------------------------------//
 	
@@ -37,8 +35,6 @@ int main()
 		if (i == 1) {cout << ' ';}
 	}
 	cout << endl;
-	
-	system("pause");
 
 	//--------------------------------------------//
 
