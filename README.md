@@ -1,1 +1,1 @@
-# prog1
+1st-laboratory
